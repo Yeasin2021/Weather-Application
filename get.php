@@ -117,7 +117,7 @@ $sunset =date('h:i A',$data['sys']['sunset']);
           </tr>
           
         </table>
-         <p>&copy;Designed & Developed by Monika & Yeasin</p>
+         <p>&copy;Designed & Developed Yeasin</p>
   </div>    
     
         
